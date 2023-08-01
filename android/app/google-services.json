@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435253977901",
+    "project_id": "pingo-learn-53fcd",
+    "storage_bucket": "pingo-learn-53fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435253977901:android:b8032198765a356b8ae9a4",
+        "android_client_info": {
+          "package_name": "com.techease.pingo_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435253977901-mslbpdmhuo7bumht1kcj78pu06pj7f95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwp_5LNfdxjqmFICksh2BUy7NF8yaB0xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435253977901-mslbpdmhuo7bumht1kcj78pu06pj7f95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
